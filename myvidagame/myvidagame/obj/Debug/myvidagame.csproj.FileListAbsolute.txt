@@ -1,0 +1,11 @@
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\bin\Debug\myvidagame.exe.config
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\bin\Debug\myvidagame.exe
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\bin\Debug\myvidagame.pdb
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\obj\Debug\myvidagame.csproj.AssemblyReference.cache
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\obj\Debug\myvidagame.csproj.SuggestedBindingRedirects.cache
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\obj\Debug\myvidagame.Form1.resources
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\obj\Debug\myvidagame.Properties.Resources.resources
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\obj\Debug\myvidagame.csproj.GenerateResource.cache
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\obj\Debug\myvidagame.csproj.CoreCompileInputs.cache
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\obj\Debug\myvidagame.exe
+C:\Users\armac417\Documents\SY22-23\C#\myvidagame\myvidagame\obj\Debug\myvidagame.pdb
